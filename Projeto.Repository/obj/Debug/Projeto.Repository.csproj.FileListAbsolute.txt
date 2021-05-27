@@ -1,0 +1,12 @@
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\EntityFramework.dll
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\EntityFramework.xml
+E:\Extreme\Extreme\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Extreme\Extreme\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+E:\Extreme\Extreme\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+E:\Extreme\Extreme\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+E:\Extreme\Extreme\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+E:\Extreme\Extreme\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
